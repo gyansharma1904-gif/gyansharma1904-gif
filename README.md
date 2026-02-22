@@ -51,8 +51,8 @@ Git | GitHub | VS Code | Linux
 ---
 
 ## 📫 Connect With Me
-LinkedIn: (add link)
-Email: (optional)
+LinkedIn: (https://www.linkedin.com/in/gyan-sharma-a72095308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Email: (gyansharma1904@gmail.com)
 
 <!--
 **gyansharma1904-gif/gyansharma1904-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
