@@ -1,4 +1,6 @@
 # Hi 👋, I'm Gyan Sharma
+![C++](https://img.shields.io/badge/C++-blue)
+![React](https://img.shields.io/badge/React-61DAFB)
 
 🎓 Computer Science Student  
 🤖 AI/ML Enthusiast | Computer Vision Research  
@@ -35,7 +37,9 @@ Git | GitHub | VS Code | Linux
 ---
 
 ## 📊 GitHub Stats
-![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyansharma1904-gif&show_icons=true)
+![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyansharma1904-gif&show_icons=true&theme=radical)
+
+---
 
 ---
 
