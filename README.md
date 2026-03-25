@@ -1,11 +1,11 @@
 # Hi 👋, I'm Gyan Sharma
-![C++](https://img.shields.io/badge/C++-blue)
+![Java](https://img.shields.io/badge/Java-blue)
 ![React](https://img.shields.io/badge/React-61DAFB)
 
 🎓 Computer Science Student  
 🤖 AI/ML Enthusiast | Computer Vision Research  
 🌐 Full Stack Developer (React + Node.js)  
-💻 Strong in C++ | DSA  
+💻 Strong in Java | DSA  
 
 ---
 
