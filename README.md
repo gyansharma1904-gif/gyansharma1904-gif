@@ -20,16 +20,13 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-C++ | Java | Python | JavaScript  
+Java | JavaScript  
 
 ### Frontend
 React.js | HTML | CSS  
 
 ### Backend
-Node.js | Express.js | REST APIs  
-
-### AI/ML
-TensorFlow | OpenCV | NumPy | Scikit-learn  
+Node.js | REST APIs  
 
 ### Tools
 Git | GitHub | VS Code | Linux  
